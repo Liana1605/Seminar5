@@ -1,0 +1,15 @@
+C:\1GB\C#\Seminar5\task32\bin\Debug\net6.0\task32.exe
+C:\1GB\C#\Seminar5\task32\bin\Debug\net6.0\task32.deps.json
+C:\1GB\C#\Seminar5\task32\bin\Debug\net6.0\task32.runtimeconfig.json
+C:\1GB\C#\Seminar5\task32\bin\Debug\net6.0\task32.dll
+C:\1GB\C#\Seminar5\task32\bin\Debug\net6.0\task32.pdb
+C:\1GB\C#\Seminar5\task32\obj\Debug\net6.0\task32.csproj.AssemblyReference.cache
+C:\1GB\C#\Seminar5\task32\obj\Debug\net6.0\task32.GeneratedMSBuildEditorConfig.editorconfig
+C:\1GB\C#\Seminar5\task32\obj\Debug\net6.0\task32.AssemblyInfoInputs.cache
+C:\1GB\C#\Seminar5\task32\obj\Debug\net6.0\task32.AssemblyInfo.cs
+C:\1GB\C#\Seminar5\task32\obj\Debug\net6.0\task32.csproj.CoreCompileInputs.cache
+C:\1GB\C#\Seminar5\task32\obj\Debug\net6.0\task32.dll
+C:\1GB\C#\Seminar5\task32\obj\Debug\net6.0\refint\task32.dll
+C:\1GB\C#\Seminar5\task32\obj\Debug\net6.0\task32.pdb
+C:\1GB\C#\Seminar5\task32\obj\Debug\net6.0\task32.genruntimeconfig.cache
+C:\1GB\C#\Seminar5\task32\obj\Debug\net6.0\ref\task32.dll
